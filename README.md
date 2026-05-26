@@ -83,7 +83,7 @@ runs** on three RTX 5090 nodes.
   title   = {Auditing Optimizer Claims for Industrial Recurrent Time-Series
              Training: A Leak-Free Equal-Budget Protocol with a
              Multi-Optimizer Case-Study Panel},
-  author  = {Ge, Kang-Kai and Lu, Teng-Chi and Lv, Xian-Long and Wang, Zhi-Yuan and Zeng, Lin},
+  author  = {Cheng, Bing-Xuan and Ge, Kang-Kai and Lv, Xian-Long and Wang, Zhi-Yuan and Zeng, Lin},
   journal = {Reliability Engineering \& System Safety},
   year    = {2026},
   note    = {Under review}
